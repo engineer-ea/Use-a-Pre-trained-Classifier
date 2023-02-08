@@ -1,7 +1,7 @@
 # Use-a-Pre-trained-Classifier
 AIPND Project
 
-Image Classification for a City Dog Show
+# Image Classification for a City Dog Show
 
 Project Goal:
 Improving your programming skills using Python.
